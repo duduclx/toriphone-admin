@@ -1,0 +1,25 @@
+const featureOptions = [
+    "inherit",
+    "featuredigittimeout",
+    "transferdigittimeout",
+    "atxfernoanswertimeout",
+    "atxferdropcall",
+    "atxferloopdelay",
+    "atxfercallbackretries",
+    "xfersound",
+    "xferfailsound",
+    "atxferabort",
+    "atxfercomplete",
+    "atxferthreeway",
+    "pickupexten",
+    "pickupsound",
+    "pickupfailsound",
+    "courtesytone",
+    "recordingfailsound",
+    "transferdialattempts",
+    "transferretrysound",
+    "transferinvalidsound",
+    "transferannouncesound",
+]
+
+export default featureOptions

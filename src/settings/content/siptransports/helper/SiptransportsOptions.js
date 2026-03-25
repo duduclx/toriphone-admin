@@ -1,0 +1,32 @@
+const siptransportsOptions = [
+    "async_operations",
+    "bind",
+    "ca_list_file",
+    "ca_list_path",
+    "cert_file",
+    "cipher",
+    "domain",
+    "external_media_address",
+    "external_signaling_address",
+    "external_signaling_port",
+    "method",
+    "local_net",
+    "password",
+    "priv_key_file",
+    "protocol",
+    "require_client_cert",
+    "tcp_keepalive_enable",
+    "tcp_keepalive_idle_time",
+    "tcp_keepalive_interval_time",
+    "tcp_keepalive_probe_count",
+    "verify_client",
+    "verify_server",
+    "tos",
+    "cos",
+    "websocket_write_timeout",
+    "allow_reload",
+    "allow_wildcard_certs",
+    "symmetric_transport"
+]
+
+export default siptransportsOptions
