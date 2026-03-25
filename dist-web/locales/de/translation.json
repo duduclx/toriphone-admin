@@ -1,0 +1,250 @@
+{
+  "login": {
+    "unauthorized": "nicht autorisierter Server",
+    "invalid": "Benutzer nicht erkannt",
+    "form_email": "E-Mail-Adresse",
+    "form_password": "Passwort",
+    "form_password_forgot": "Passwort vergessen?",
+    "form_server": "Server",
+    "form_server_placeholder": "Server",
+    "form_button": "Einloggen",
+    "form_button_loading": "Laden...",
+    "form_error_login": "Falscher Benutzername oder falsches Passwort!",
+    "form_error_server": "Server nicht erreichbar!",
+    "form_error_other": "Ein Fehler ist aufgetreten",
+    "update_password_event": "Passwort aktualisieren",
+    "update_password_event_true": "Passwort geändert!",
+    "update_password_event_false": "Passwort nicht aktualisiert!"
+  },
+  "app": {
+    "loader": "Laden Ihrer Daten..."
+  },
+  "search": {
+    "placeholder": "Suchen",
+    "no_result": "Keine Ergebnisse"
+  },
+  "dnd": "Nicht stören",
+  "status": {
+    "available": "Verfügbar",
+    "busy": "Beschäftigt",
+    "unavailable": "Nicht verfügbar",
+    "invisible": "Unsichtbar",
+    "update_status_event": "Status aktualisieren",
+    "update_status_event_true": "Status erfolgreich aktualisiert!",
+    "update_status_event_false": "Status nicht aktualisiert!"
+  },
+  "agent": {
+    "connect": "Verbinden",
+    "disconnect": "Trennen",
+    "pause": "Pause",
+    "resume": "Fortsetzen"
+  },
+  "phone": {
+    "page_title": "Aktive Anrufe",
+    "sidebar_title": "Anrufe",
+    "dialer": "Nummer wählen!",
+    "incomingCall": "Eingehender Anruf",
+    "lines_title": "Meine Anrufe:",
+    "lines_calling": "Anruf wird durchgeführt...",
+    "lines_transfer_title": "Anruf weiterleiten",
+    "lines_transfer_destination": "Ziel",
+    "lines_transfer_direct": "Direkte Weiterleitung",
+    "lines_transfer_indirect": "Indirekte Weiterleitung",
+    "lines_transfer_target": "Zielnummer",
+    "lines_transfer_confirm": "Weiterleiten",
+    "lines_transfer_cancel": "Abbrechen",
+    "send_chat_placeholder": "Nachricht senden",
+    "send_signal_message": "zieht deine Aufmerksamkeit auf sich",
+    "chat_title": "Vergängliche Nachrichten",
+    "favorites_empty": "Keine Favoriten"
+  },
+  "conference": {
+    "title": "Konferenz",
+    "merge": "Konferenz erstellen",
+    "participants": "Teilnehmer",
+    "available": "Verfügbare Anrufe",
+    "add": "Hinzufügen"
+  },
+  "callLog": {
+    "page_title": "Anrufliste",
+    "sidebar_title": "Liste filtern",
+    "length": "Größe der Anrufhistorie:",
+    "button": "Anwenden",
+    "length_event": "Historiengröße:",
+    "length_event_true": "erfolgreich geändert!",
+    "length_event_false": "muss eine Zahl zwischen 1 und 30 sein!",
+    "filter_no_result": "Keine Ergebnisse",
+    "table_type": "Typ und Dauer",
+    "table_date": "Datum",
+    "table_name": "Gesprächspartner",
+    "table_number": "Nummer",
+    "table_buttons": "Aktionen",
+    "filter_placeholder": "Filter auswählen",
+    "filter_by_date": "Nach Datum",
+    "filter_date": "Ab:",
+    "filter_date_number": "Nummer:",
+    "filter_date_button": "Nach Datum suchen",
+    "filter_by_name": "Nach Name oder Nummer",
+    "filter_name": "Nach Name oder Nummer:",
+    "filter_name_placeholder": "Name oder Nummer...",
+    "filter_name_button": "Suchen",
+    "filter_by_type": "Nach Typ",
+    "filter_type_internal": "Intern",
+    "filter_type_inbound": "Eingehend",
+    "filter_type_outbound": "Ausgehend",
+    "filter_type_recorded": "Aufgezeichnet",
+    "filter_type_button": "Nach Typ suchen",
+    "filter_result_number": "Anzahl der Ergebnisse:",
+    "filter_reset": "Filter zurücksetzen"
+  },
+  "voicemails": {
+    "page_title": "Sprachnachrichten",
+    "sidebar_title": "Anrufbeantworter",
+    "table_footer": "Denken Sie daran, Ihre gelesenen Nachrichten zu löschen",
+    "table_caller": "Gesprächspartner",
+    "table_date": "Datum",
+    "table_message": "Nachricht",
+    "sidebar_button_config": "Meinen Anrufbeantworter konfigurieren",
+    "sidebar_button_active": "Meinen Anrufbeantworter aktivieren/deaktivieren",
+    "no_messages": "Keine neuen Nachrichten",
+    "event_delete": "Nachricht gelöscht!"
+  },
+  "contacts": {
+    "sidebar_title": "Kontakte",
+    "sidebar_favorite": "Favoriten",
+    "sidebar_internal": "Intern",
+    "sidebar_phonebook": "Telefonbuch",
+    "sidebar_google": "Google",
+    "sidebar_office": "Office 365",
+    "sidebar_personal": "Persönlich",
+    "filter_placeholder": "Suchen...",
+    "card_firstname": "Vorname:",
+    "card_lastname": "Nachname:",
+    "card_number": "Nummer:",
+    "card_email": "E-Mail:",
+    "card_mobile": "Handy:",
+    "card_address": "Adresse:",
+    "card_note": "Notiz:",
+    "card_fax": "Fax:",
+    "card_enterprise": "Unternehmen:",
+    "page_title_favorites": "Meine Favoriten",
+    "page_title_internal": "Interne Kontakte",
+    "page_title_phonebook": "Internes Telefonbuch",
+    "page_title_personal": "Meine persönlichen Kontakte",
+    "personal_add_button": "Hinzufügen",
+    "personal_add_title": "Kontakt hinzufügen",
+    "personal_edit_title": "Aktualisieren",
+    "personal_edit_button": "Anwenden",
+    "personal_delete": "Sind Sie sicher, dass Sie löschen möchten",
+    "personal_delete_confirm": "Bestätigen",
+    "personal_delete_cancel": "Abbrechen"
+  },
+  "chat": {
+    "page_title": "Instant Messaging",
+    "sidebar_title": "Meine Konversationen",
+    "members": "Mitglieder",
+    "members_list": "Teilnehmer",
+    "members_add": "Teilnehmer hinzufügen",
+    "menu_title": "Chats",
+    "menu_my_chats": "Meine Chats",
+    "menu_my_chats_group": "Meine Gruppen",
+    "menu_add_chat": "Neuer Chat",
+    "menu_add_group": "Neue Gruppe",
+    "menu_add_title": "Gruppenname",
+    "menu_add_with": "Mit",
+    "menu_add_button": "Hinzufügen",
+    "options_list_participant": "Liste der Teilnehmer",
+    "options_add_participant": "Teilnehmer hinzufügen",
+    "options_close": "Schließen",
+    "form_welcome": "Sag hallo zu ihnen!"
+  },
+  "meets": {
+    "page_title": "Meine Meetings",
+    "sidebar_title": "Meetings"
+  },
+  "switchboard": {
+    "page_title": "Meine Telefonzentralen",
+    "sidebar_title": "Telefonzentralen"
+  },
+  "user": {
+    "sidebar_title": "Mein Konto",
+    "profile": "Profil",
+    "password": "Passwort",
+    "forwards": "Weiterleitungen",
+    "fax": "Fax",
+    "preferences": "Einstellungen",
+    "theme": "Design",
+    "about": "Über",
+    "logout": "Abmelden",
+    "notification_button": "Benachrichtigungen aktivieren",
+    "notification_activated": "Benachrichtigungen aktiviert!",
+    "notification_title": "Anruf von"
+  },
+  "profile": {
+    "title": "mein Profil",
+    "my_status": "Mein Status:",
+    "my_mobile_number": "Meine Handynummer:",
+    "my_mobile_number_placeholder": "Deine Handynummer",
+    "change_password": "Passwort ändern:",
+    "change_password_old_placeholder": "Altes Passwort",
+    "change_password_old_valid": "In Ordnung!",
+    "change_password_old_invalid": "Altes Passwort erforderlich",
+    "change_password_new_placeholder": "Neues Passwort",
+    "change_password_new_valid": "In Ordnung!",
+    "change_password_new_invalid": "Das Passwort muss mindestens 6 Zeichen lang sein",
+    "change_password_button": "Passwort aktualisieren",
+    "change_password_event": "Passwortänderung",
+    "change_password_event_invalid": "Ungültiges Passwort!"
+  },
+  "forwards": {
+    "title": "Meine Weiterleitungen",
+    "busy": "Bei Besetzt",
+    "noanswer": "Bei Keine Antwort",
+    "unconditional": "Bedingungslos",
+    "active": "Aktiv",
+    "save": "Speichern",
+    "update_forwards_event": "Weiterleitungen aktualisieren",
+    "update_forwards_event_true": "Weiterleitungen erfolgreich aktualisiert!",
+    "update_forwards_event_false": "Weiterleitungen nicht aktualisiert!"
+  },
+  "fax": {
+    "title": "Fax senden",
+    "file": "Wählen Sie eine .pdf-Datei zum Senden per Fax aus",
+    "file_placeholder": "Wählen Sie eine PDF-Datei",
+    "number": "Empfänger",
+    "number_placeholder": "Geben Sie die Durchwahl ein (Telefonnummer)",
+    "button": "Fax senden",
+    "success_title": "Fax gesendet",
+    "success_description": "Das Fax wurde erfolgreich gesendet!",
+    "error_title": "Sendefehler",
+    "error_description": "Das Fax konnte nicht gesendet werden!"
+  },
+  "preferences": {
+    "title": "Mein Konto",
+    "ring": {
+      "title": "Klingelton",
+      "ring": "Klingelton",
+      "volume": "Klingelton Lautstärke",
+      "device": "Klingelton Gerät"
+    },
+    "audio": {
+      "title": "Audio",
+      "volume": "Audio Lautstärke",
+      "device": "Audio Gerät"
+    },
+    "video": {
+      "title": "Kamera",
+      "device": "Video Gerät"
+    },
+    "micro": {
+      "title": "Mikrofon",
+      "device": "Mikrofon Gerät"
+    }
+  },
+  "about": {
+    "version": "Anwendungsversion",
+    "current_server": "Server",
+    "engine_version": "Serverversion",
+    "copyright": "Alle Rechte vorbehalten"
+  }
+}

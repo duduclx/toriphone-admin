@@ -1,0 +1,250 @@
+{
+  "login": {
+    "unauthorized": "servidor no autorizado",
+    "invalid": "usuario no reconocido",
+    "form_email": "correo electrónico",
+    "form_password": "contraseña",
+    "form_password_forgot": "¿Olvidaste tu contraseña?",
+    "form_server": "servidor",
+    "form_server_placeholder": "Servidor",
+    "form_button": "Iniciar sesión",
+    "form_button_loading": "Cargando...",
+    "form_error_login": "¡Usuario/contraseña incorrectos!",
+    "form_error_server": "¡Servidor inaccesible!",
+    "form_error_other": "Se produjo un error",
+    "update_password_event": "actualización de la contraseña",
+    "update_password_event_true": "¡Contraseña cambiada!",
+    "update_password_event_false": "¡La contraseña no se actualizó!"
+  },
+  "app": {
+    "loader": "Cargando tus datos..."
+  },
+  "search": {
+    "placeholder": "buscar",
+    "no_result": "Sin resultados"
+  },
+  "dnd": "No molestar",
+  "status": {
+    "available": "disponible",
+    "busy": "ocupado",
+    "unavailable": "no disponible",
+    "invisible": "invisible",
+    "update_status_event": "Actualización de estado",
+    "update_status_event_true": "¡El estado se actualizó correctamente!",
+    "update_status_event_false": "¡El estado no se actualizó!"
+  },
+  "agent": {
+    "connect": "Conectar",
+    "disconnect": "Desconectar",
+    "pause": "Pausa",
+    "resume": "Reanudar"
+  },
+  "phone": {
+    "page_title": "Llamadas en curso",
+    "sidebar_title": "Llamadas",
+    "dialer": "¡marcar un número!",
+    "incomingCall": "Llamada entrante",
+    "lines_title": "Mis llamadas:",
+    "lines_calling": "Llamada en curso...",
+    "lines_transfer_title": "Transferencia de llamadas",
+    "lines_transfer_destination": "destino",
+    "lines_transfer_direct": "transferencia directa",
+    "lines_transfer_indirect": "transferencia indirecta",
+    "lines_transfer_target": "Número de destino",
+    "lines_transfer_confirm": "Transferir",
+    "lines_transfer_cancel": "Cancelar",
+    "send_chat_placeholder": "enviar un mensaje",
+    "send_signal_message": "llama tu atención",
+    "chat_title": "Mensajes efímeros",
+    "favorites_empty": "Sin favoritos"
+  },
+  "conference": {
+    "title": "Conferencia",
+    "merge": "Crear conferencia",
+    "participants": "Participantes",
+    "available": "Llamadas disponibles",
+    "add": "Agregar"
+  },
+  "callLog": {
+    "page_title": "Historial de llamadas",
+    "sidebar_title": "Filtrar historial",
+    "length": "Tamaño del historial de llamadas:",
+    "button": "Aplicar",
+    "length_event": "Tamaño del historial:",
+    "length_event_true": "¡Cambios realizados con éxito!",
+    "length_event_false": "debe ser un número entre 1 y 30!",
+    "filter_no_result": "Sin resultados",
+    "table_type": "tipo y duración",
+    "table_date": "fecha",
+    "table_name": "corresponsal",
+    "table_number": "número",
+    "table_buttons": "acciones",
+    "filter_placeholder": "elegir un filtro",
+    "filter_by_date": "por fecha",
+    "filter_date": "A partir de:",
+    "filter_date_number": "Número:",
+    "filter_date_button": "Buscar por fecha",
+    "filter_by_name": "por nombre o número",
+    "filter_name": "Por nombre o número:",
+    "filter_name_placeholder": "nombre o número...",
+    "filter_name_button": "Buscar",
+    "filter_by_type": "por tipo",
+    "filter_type_internal": "Interno",
+    "filter_type_inbound": "Entrante",
+    "filter_type_outbound": "Saliente",
+    "filter_type_recorded": "Grabado",
+    "filter_type_button": "Buscar por tipo",
+    "filter_result_number": "Número de resultados:",
+    "filter_reset": "Restablecer filtros"
+  },
+  "voicemails": {
+    "page_title": "Correo de voz",
+    "sidebar_title": "Buzón de voz",
+    "table_footer": "Recuerda eliminar tus mensajes leídos",
+    "table_caller": "Corresponsal",
+    "table_date": "Fecha",
+    "table_message": "Mensaje",
+    "sidebar_button_config": "Configurar mi correo",
+    "sidebar_button_active": "Activar/Desactivar mi correo",
+    "no_messages": "Sin nuevos mensajes",
+    "event_delete": "Mensaje eliminado!"
+  },
+  "contacts": {
+    "sidebar_title": "Contactos",
+    "sidebar_favorite": "Favoritos",
+    "sidebar_internal": "Interno",
+    "sidebar_phonebook": "Directorio",
+    "sidebar_google": "Google",
+    "sidebar_office": "Office 365",
+    "sidebar_personal": "Personal",
+    "filter_placeholder": "Buscar...",
+    "card_firstname": "Nombre:",
+    "card_lastname": "Apellido:",
+    "card_number": "Número:",
+    "card_email": "Correo:",
+    "card_mobile": "Móvil:",
+    "card_address": "Dirección:",
+    "card_note": "Nota:",
+    "card_fax": "Fax:",
+    "card_enterprise": "Empresa:",
+    "page_title_favorites": "Mis contactos favoritos",
+    "page_title_internal": "Contactos internos",
+    "page_title_phonebook": "Directorio interno",
+    "page_title_personal": "Mis contactos personales",
+    "personal_add_button": "Agregar",
+    "personal_add_title": "Agregar contacto",
+    "personal_edit_title": "Actualizar",
+    "personal_edit_button": "Aplicar",
+    "personal_delete": "¿Estás seguro de que quieres eliminar",
+    "personal_delete_confirm": "Confirmar",
+    "personal_delete_cancel": "Cancelar"
+  },
+  "chat": {
+    "page_title": "Mensajería instantánea",
+    "sidebar_title": "Mis conversaciones",
+    "members": "miembros",
+    "members_list": "participantes",
+    "members_add": "agregar participantes",
+    "menu_title": "Chats",
+    "menu_my_chats": "Mis conversaciones",
+    "menu_my_chats_group": "Mis grupos",
+    "menu_add_chat": "Nueva conversación",
+    "menu_add_group": "Nuevo grupo",
+    "menu_add_title": "Nombre del grupo",
+    "menu_add_with": "Con",
+    "menu_add_button": "Agregar",
+    "options_list_participant": "Lista de participantes",
+    "options_add_participant": "Agregar participantes",
+    "options_close": "Cerrar",
+    "form_welcome": "¡salúdalo!"
+  },
+  "meets": {
+    "page_title": "Mis reuniones",
+    "sidebar_title": "Reuniones"
+  },
+  "switchboard": {
+    "page_title": "Mis centralitas",
+    "sidebar_title": "Centralitas"
+  },
+  "user": {
+    "sidebar_title": "Mi Cuenta",
+    "profile": "Perfil",
+    "password": "Contraseña",
+    "forwards": "Reenvíos",
+    "fax": "Fax",
+    "preferences": "Preferencias",
+    "theme": "Tema",
+    "about": "Acerca de",
+    "logout": "Cerrar sesión",
+    "notification_button": "Activar notificaciones",
+    "notification_activated": "¡Notificaciones activadas!",
+    "notification_title": "Llamada de"
+  },
+  "profile": {
+    "title": "mi perfil",
+    "my_status": "Mi estado:",
+    "my_mobile_number": "Mi número de móvil:",
+    "my_mobile_number_placeholder": "tu número de móvil",
+    "change_password": "Cambiar mi contraseña:",
+    "change_password_old_placeholder": "Contraseña anterior",
+    "change_password_old_valid": "¡Está bien!",
+    "change_password_old_invalid": "Contraseña anterior obligatoria",
+    "change_password_new_placeholder": "Nueva contraseña",
+    "change_password_new_valid": "¡Está bien!",
+    "change_password_new_invalid": "La contraseña debe tener al menos 6 caracteres",
+    "change_password_button": "Actualizar contraseña",
+    "change_password_event": "Cambio de contraseña",
+    "change_password_event_invalid": "¡Contraseña no válida!"
+  },
+  "forwards": {
+    "title": "mis reenvíos",
+    "busy": "en ocupación",
+    "noanswer": "en no respuesta",
+    "unconditional": "incondicional",
+    "active": "activado",
+    "save": "Guardar",
+    "update_forwards_event": "Actualización de reenvíos",
+    "update_forwards_event_true": "¡Los reenvíos se actualizaron correctamente!",
+    "update_forwards_event_false": "¡Los reenvíos no se actualizaron!"
+  },
+  "fax": {
+    "title": "envío de fax",
+    "file": "Seleccionar un archivo .pdf para enviar por fax",
+    "file_placeholder": "Seleccionar un archivo PDF",
+    "number": "Destinatario",
+    "number_placeholder": "Ingrese la extensión (número de teléfono)",
+    "button": "Enviar fax",
+    "success_title": "Fax enviado",
+    "success_description": "¡El fax se envió correctamente!",
+    "error_title": "Error al enviar",
+    "error_description": "¡El fax no se pudo enviar!"
+  },
+  "preferences": {
+    "title": "Mi cuenta",
+    "ring": {
+      "title": "tono de llamada",
+      "ring": "tono de llamada",
+      "volume": "volumen del tono de llamada",
+      "device": "dispositivo de tono de llamada"
+    },
+    "audio": {
+      "title": "audio",
+      "volume": "volumen de audio",
+      "device": "dispositivo de audio"
+    },
+    "video": {
+      "title": "cámara",
+      "device": "dispositivo de video"
+    },
+    "micro": {
+      "title": "micrófono",
+      "device": "dispositivo de micrófono"
+    }
+  },
+  "about": {
+    "version": "Versión de la aplicación",
+    "current_server": "Servidor",
+    "engine_version": "Versión del servidor",
+    "copyright": "todos los derechos reservados"
+  }
+}
